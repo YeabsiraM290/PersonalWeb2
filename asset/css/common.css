@@ -1,0 +1,29 @@
+body{
+
+    font-size: 100%;
+
+  }
+
+  .navbar-brand{
+  
+    font-size: 2em;
+    letter-spacing: normal;
+    font-family: 'Ramabhadra', sans-serif;
+  
+  }
+
+  .navbar-brand > p{
+  
+    font-size: 0.4em;
+    font-family: 'Ramabhadra', sans-serif;
+
+  }
+
+  .nav-link{
+  
+    font-size: 1.2em;
+    color: black !important; 
+    
+  }
+
+ 

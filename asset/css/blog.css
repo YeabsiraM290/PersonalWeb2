@@ -1,0 +1,33 @@
+ .card{
+
+    border: none !important;
+    
+  }
+  
+.card-title{
+
+  font-family: 'Dancing Script', cursive;
+
+}
+  
+.card-body > a{
+
+  color: black;
+  font-size: 0.8em;
+  font-family: 'Dancing Script', cursive;
+  font-family: 'Roboto', sans-serif;
+
+}
+  
+.card-text{
+
+    font-size: 0.9em;
+  }
+  
+
+
+  
+
+
+
+ 
